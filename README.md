@@ -10,6 +10,11 @@ I build agentic AI and LLM systems that are explainable and ready to deploy. I h
 - **Cinevo**: a full-stack movie and TV tracking platform (Next.js, TypeScript, Supabase, TMDB API), now being moved to Cloudflare Workers with an Upstash Redis cache.
 - **MSc research**: agentic AI for autonomous intrusion and malware response with explainable agent decisions (details after publication).
 
+## Also built
+
+- **Ora**: a personal work and earnings tracker (Flutter).
+- **Arborly**: an AI-powered family legacy and family tree app (Flutter).
+
 ## What I work with
 
 - **AI:** agentic AI, LLMs, RAG, deep learning, computer vision, explainable AI (SHAP, LIME)
